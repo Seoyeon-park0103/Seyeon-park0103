@@ -1,4 +1,4 @@
-![노랑·연두 물결 배너](https://capsule-render.vercel.app/api?type=waving&color=0:F6E68C,100:E0F4C8&height=120&section=header)
+<img width="100%" alt="노랑·연두 물결 배너" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F6E68C,100:E0F4C8&amp;height=100&amp;section=header" />
 
 <div align="center">
 
