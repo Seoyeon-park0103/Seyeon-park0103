@@ -1,6 +1,7 @@
 <img width="100%" alt="노랑·연두 물결 배너" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F6E68C,100:E0F4C8&amp;height=100&amp;section=header" />
 
 <div align="center">
+  
 # Hi, I'm Seoyeon! 🌼
 
 **Java · Spring Boot · Backend Development**
