@@ -1,7 +1,6 @@
 <img width="100%" alt="노랑·연두 물결 배너" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:F6E68C,100:E0F4C8&amp;height=100&amp;section=header" />
 
 <div align="center">
-
 # Hi, I'm Seoyeon! 🌼
 
 **Java · Spring Boot · Backend Development**
@@ -17,6 +16,7 @@
 - **사용자 흐름을 먼저 봅니다.** 사용자가 기능을 어떤 순서로 쓰는지 살피고, 불필요한 단계 없이 이해할 수 있도록 설계합니다.
 - **팀이 같은 맥락에서 작업할 수 있게 소통합니다.** 구현 전에 요구사항을 확인하고, API 명세와 변경 사항은 빠르게 공유합니다.
 - **맡은 기능은 배포까지 챙깁니다.** 구현한 기능이 배포 환경에서도 안정적으로 동작하는 것을 목표로 합니다.
+
 
 ## 🛠️ Tech Stack
 
@@ -35,10 +35,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css&logoColor=white)
 
-### Collaboration
-
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ## 📂 Projects
 
