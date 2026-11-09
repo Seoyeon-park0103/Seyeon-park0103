@@ -63,6 +63,7 @@
 | 한국외국어대학교 컴퓨터공학부 | 2023.03 ~ |
 | 컴퓨터공학부 학회 N-CUBE | 2025.03 ~ 2025.08 |
 | UMC 9기 Spring Boot 파트 | 2025.09 ~ 2026.02 |
-| UMC 10기 Spring Boot 파트 | 2026.03 시작 |
+| UMC 10기 Spring Boot 파트 | 2026.03 ~ 2026.08 |
+| UMC 11기 Mobile 파트 | 2026.09 시작 |
 
 ![노랑·연두 물결 푸터](https://capsule-render.vercel.app/api?type=waving&color=0:F6E68C,100:E0F4C8&height=90&section=footer)
