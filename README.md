@@ -1,4 +1,3 @@
-# Seoyeon-park0103
 ![노랑·연두 물결 배너](https://capsule-render.vercel.app/api?type=waving&color=0:F6E68C,100:E0F4C8&height=120&section=header)
 
 <div align="center">
