@@ -1,4 +1,4 @@
-# Seyeon-park0103
+# Seoyeon-park0103
 ![노랑·연두 물결 배너](https://capsule-render.vercel.app/api?type=waving&color=0:F6E68C,100:E0F4C8&height=120&section=header)
 
 <div align="center">
@@ -41,16 +41,26 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
-## 📂 Featured Projects
+## 📂 Projects
 
-| 프로젝트 | 서비스 소개 | 역할 및 기술 | GitHub |
-| --- | --- | --- | --- |
-| **Barkit** | 멤버십과 매장을 연결하는 통합 지갑 서비스 | 백엔드 · Spring Boot, MySQL, RESTful API | [GitHub](https://github.com/Barkit-UMC) |
-| **냠토리** | AI 기반 맞춤형 레시피 추천 서비스 | 백엔드 · Spring Boot, MySQL, RESTful API | [백엔드](https://github.com/nyamtori/BE) · [프론트엔드](https://github.com/nyamtori/FE) |
-| **오하아사** | 일본 운세 콘텐츠 큐레이션 서비스 | TypeScript, JavaScript, HTML, CSS, Node.js | — |
-| **UMC Workbook** | UMC Spring Boot 파트 실습 프로젝트 | 백엔드 · Spring Boot | — |
+| 프로젝트 | 소개 | 역할 및 기술 |
+| --- | --- | --- |
+| [**여기도 (Yeogido)**](https://github.com/yeogido) | 지역별 추천 코스와 축제·문화행사를 둘러보고, 다녀온 곳을 기록하는 여행 서비스 | 팀 프로젝트 참여 |
+| [**Barkit**](https://github.com/Barkit-UMC) | 멤버십과 매장을 연결하는 통합 지갑 서비스 | 백엔드 · Spring Boot, MySQL, REST API |
+| [**냠토리**](https://github.com/nyamtori) | AI 기반 맞춤형 레시피 추천 서비스 | 백엔드 · Spring Boot, MySQL, REST API |
+| **오하아사** | 일본 운세 콘텐츠 큐레이션 서비스 | TypeScript, JavaScript, HTML, CSS, Node.js |
+| **UMC Workbook** | UMC Spring Boot 파트 실습 프로젝트 | 백엔드 · Spring Boot |
 
-**다른 팀 프로젝트** · [Yeogido](https://github.com/yeogido) · [N-CUBE Summer Project Team 2](https://github.com/NcubeSummerProjectTeam2)
+[N-CUBE Summer Project Team 2](https://github.com/NcubeSummerProjectTeam2)
+
+## 🛠️ Tech Stack
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ## 🎓 Experiences
 
