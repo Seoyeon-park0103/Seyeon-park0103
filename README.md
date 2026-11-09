@@ -47,10 +47,8 @@
 | [**여기도 (Yeogido)**](https://github.com/yeogido) | 지역별 추천 코스와 축제·문화행사를 둘러보고, 다녀온 곳을 기록하는 여행 서비스 | 팀 프로젝트 참여 |
 | [**Barkit**](https://github.com/Barkit-UMC) | 멤버십과 매장을 연결하는 통합 지갑 서비스 | 백엔드 · Spring Boot, MySQL, REST API |
 | [**냠토리**](https://github.com/nyamtori) | AI 기반 맞춤형 레시피 추천 서비스 | 백엔드 · Spring Boot, MySQL, REST API |
-| **오하아사** | 일본 운세 콘텐츠 큐레이션 서비스 | TypeScript, JavaScript, HTML, CSS, Node.js |
-| **UMC Workbook** | UMC Spring Boot 파트 실습 프로젝트 | 백엔드 · Spring Boot |
+| [**오하아사**](https://github.com/NcubeSummerProjectTeam2) | 일본 운세 콘텐츠 큐레이션 서비스 | TypeScript, JavaScript, HTML, CSS, Node.js |
 
-[N-CUBE Summer Project Team 2](https://github.com/NcubeSummerProjectTeam2)
 
 ## 🛠️ Tech Stack
 
